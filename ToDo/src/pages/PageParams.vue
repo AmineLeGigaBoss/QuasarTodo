@@ -1,12 +1,12 @@
 <template>
   <q-page padding>
-
+  <h1>Page Params</h1>
   </q-page>
 </template>
 
 <script>
 export default {
-  name: 'IndexPage'
+  name: 'PageParams'
 }
 </script>
 
